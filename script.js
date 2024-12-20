@@ -82,3 +82,12 @@ console.log(hh,"Will print all H1,but in the form of Node list slightly similar 
 hh.forEach(function(elem){
     console.log(elem);//Will print all h1 individually
 })
+
+
+// ---------------------3
+
+var hay=document.getElementById("hey")
+hay.innerHTML="Bhag ja yha se"  //differenve niche hai
+hey.textContent="Kya be kaisa hai"//difference niche hai
+hey.innerHTML="<h1 >CHla ja yha se </h1." //In case of using innerHTML we will get our text in h1 format but,
+hey.textContent="<h1>bhagoooooooooooooo</h1>" // it willl print like <h1>bhagoooooooooooooo</h1>

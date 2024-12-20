@@ -27,3 +27,14 @@ h1{
     font-size: 100px;
     font-weight: 700;
 }
+
+/* ---------------3 */
+#hey{
+    height: 700px;
+    width: 700px;
+    font-size: 80px;
+    font-weight: 700;
+    color: royalblue;
+    background-color: #000;
+}
+
